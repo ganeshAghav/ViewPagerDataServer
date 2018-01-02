@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ViewPagerDataServer.iml" filepath="$PROJECT_DIR$/ViewPagerDataServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/httpclient-4.2.3/httpclient-4.2.3.iml" filepath="$PROJECT_DIR$/httpclient-4.2.3/httpclient-4.2.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/httpcore-4.3.2/httpcore-4.3.2.iml" filepath="$PROJECT_DIR$/httpcore-4.3.2/httpcore-4.3.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ksoap2/ksoap2.iml" filepath="$PROJECT_DIR$/ksoap2/ksoap2.iml" />
+    </modules>
+  </component>
+</project>

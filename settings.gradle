@@ -1,0 +1,1 @@
+include ':app', ':httpclient-4.2.3', ':httpcore-4.3.2', ':ksoap2'
